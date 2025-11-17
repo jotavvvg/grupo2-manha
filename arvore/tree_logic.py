@@ -1,6 +1,6 @@
 # alguma coisa
 # tree_logic.py — você edita APENAS este arquivo nesta atividade.
-
+# alguma coisa
 class Node:
     def __init__(self, question, yes=None, no=None):
         """
